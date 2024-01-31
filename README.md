@@ -1,4 +1,4 @@
-# OnInternet
+# Linq Perfomance
 
 Linq Perfomance:
 Source: https://rimdev.io/optimizing-linq-sql-skip-take/
